@@ -24,7 +24,7 @@ JavaScript (Vanilla)
 │     └── (imagens dos pontos turísticos)
 🚀 Como executar o projeto
 Clone este repositório:
-git clone https://github.com/seu-usuario/guia-bauru.git
+git clone https://github.com/math0410/GuiaTuristicoBauru-projeto
 Acesse a pasta do projeto:
 cd guia-bauru
 Abra o arquivo index.html no navegador:
