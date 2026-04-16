@@ -1,3 +1,5 @@
+https://math0410.github.io/GuiaTuristicoBauru-projeto/
+
 🌆 Guia de Turismo de Bauru
 
 Um projeto web simples e interativo que apresenta pontos turísticos, cultura e informações úteis sobre a cidade de Bauru - SP. Desenvolvido utilizando HTML e CSS , este guia tem como objetivo facilitar o acesso a informações para turistas e moradores.
