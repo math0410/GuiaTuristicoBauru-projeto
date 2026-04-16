@@ -1,6 +1,6 @@
 🌆 Guia de Turismo de Bauru
 
-Um projeto web simples e interativo que apresenta pontos turísticos, cultura e informações úteis sobre a cidade de Bauru - SP. Desenvolvido utilizando HTML, CSS e JavaScript, este guia tem como objetivo facilitar o acesso a informações para turistas e moradores.
+Um projeto web simples e interativo que apresenta pontos turísticos, cultura e informações úteis sobre a cidade de Bauru - SP. Desenvolvido utilizando HTML e CSS , este guia tem como objetivo facilitar o acesso a informações para turistas e moradores.
 
 📌 Funcionalidades
 📍 Listagem de pontos turísticos
@@ -12,14 +12,11 @@ Um projeto web simples e interativo que apresenta pontos turísticos, cultura e 
 🛠️ Tecnologias utilizadas
 HTML5
 CSS3
-JavaScript (Vanilla)
 📂 Estrutura do projeto
 /guia-bauru
 │── index.html
 │── /css
 │     └── styles.css
-│── /js
-│     └── script.js
 │── /images
 │     └── (imagens dos pontos turísticos)
 🚀 Como executar o projeto
